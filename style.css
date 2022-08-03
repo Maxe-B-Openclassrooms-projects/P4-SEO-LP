@@ -683,7 +683,7 @@ p {
 }
 
 .tight-width-whitespace {
-  max-width: 600px;
+
   margin: auto auto auto auto;
 }
 
@@ -765,7 +765,7 @@ h4 {
 }
 
 .bgc-white {
-  background-color: #ffffff;
+  color: #f3976c !important;
 }
 
 .bgc-dark-slate-blue {
@@ -773,11 +773,12 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  color: #ffffff !important;
+  background: #f3976c;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {

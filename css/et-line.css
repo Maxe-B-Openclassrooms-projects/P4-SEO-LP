@@ -6,6 +6,10 @@
     font-style: normal
 }
 
+strong  {
+    font-weight: inherit;
+}
+
 .et-icon-adjustments,
 .et-icon-alarmclock,
 .et-icon-anchor,
